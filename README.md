@@ -44,6 +44,4 @@
 
 ### 1. 레포지토리 클론 (Clone Repository)
 
-```bash
-[git clone https://github.com/YourGitHubUsername/YourProjectName.git # <- 당신의 GitHub 계정과 프로젝트 이름으로 바꿔주세요!
-cd YourProjectName](https://github.com/MaINoo999/ON-Device_Face_Animal_Detector.git)
+https://github.com/MaINoo999/ON-Device_Face_Animal_Detector.git
